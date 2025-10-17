@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cloudvaathi-logo.png" alt="CloudVaathi Logo" width="200"/>
+  <img src="/cloudvaathi logo.png" alt="CloudVaathi Logo" width="200"/>
 </p>
 
 <h3 align="center">Empowering Cloud Champions | Curated by Sivva</h3>
