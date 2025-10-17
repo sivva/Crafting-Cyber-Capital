@@ -80,23 +80,23 @@ Our bootcamps are built for impact — fast-paced, focused, and certification-re
 
 ## 📺 Bootcamps List 
 
-### ☁️ Cloud Administrator
-
-### 🔐 Cloud Security
-
-### 🤖 Artificial Intelligence
-
-### 🧠 Prompt Engineering & Generative AI
-
-### 🧭 CISM – Information Security Management
-
-### 🛡️ CCSP – Cloud Security Certification
-
-### 🧪 Selenium – Test Automation
-
-### 🏛️ TOGAF & Enterprise Architecture 
-
-### ⚙️ DevOps & CI/CD
+    ### ☁️ Cloud Administrator
+    
+    ### 🔐 Cloud Security
+    
+    ### 🤖 Artificial Intelligence
+    
+    ### 🧠 Prompt Engineering & Generative AI
+    
+    ### 🧭 CISM – Information Security Management
+    
+    ### 🛡️ CCSP – Cloud Security Certification
+    
+    ### 🧪 Selenium – Test Automation
+    
+    ### 🏛️ TOGAF & Enterprise Architecture 
+    
+    ### ⚙️ DevOps & CI/CD
 
 
 ---
