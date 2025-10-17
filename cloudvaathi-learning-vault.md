@@ -46,7 +46,7 @@ Courses and resources focused on implementing and understanding Zero Trust princ
 
 | Course Title | Link |
 |--------------|------|
-| CCZT 360º : Your Essential Practice Kit for Exam Mastery | [View Course](https://www.udemy.com/course/crack-aws-ai-practitioner-325-qns-for-guaranteed-success-z/?couponCode=92E5A46C24ADB6340F95)|
+| CCZT 360º : Your Essential Practice Kit for Exam Mastery | [View Course](https://www.udemy.com/course/cczt-360o-your-essential-practice-kit-for-exam-mastery/?couponCode=DC7334E94563C39CEC0B)|
 
 ---
 
@@ -57,7 +57,7 @@ Courses and resources focused on mastering EA frameworks, TOGAF principles, and 
 | Course Title | Link |
 |--------------|------|
 | TOGAF Mindmap| [View Course](https://mm.tt/map/3687304525?t=ZQ5rliC3Fc)|
-| EA Edge : Elevate Your Exam readiness with 320 Practice Qns | [View Course]](https://www.udemy.com/course/ea-edge-elevate-your-exam-readiness-with-320-practice-qns/?couponCode=FFBC44F664E6EA6A0EDF)|
+| EA Edge : Elevate Your Exam readiness with 320 Practice Qns | [View Course](https://www.udemy.com/course/ea-edge-elevate-your-exam-readiness-with-320-practice-qns/?couponCode=FFBC44F664E6EA6A0EDF)|
 
 
 ### ☁️ Cloud Security - ISC2 CCSP
@@ -71,23 +71,28 @@ Courses and resources focused on mastering EA frameworks, TOGAF principles, and 
 
 ## 📺 Instructor Led Bootcamps & Master class 
 
-## ☁️ Cloud
+Interested in our scenario-driven bootcamps?
+We deliver enterprise-grade training with certification outcomes that speak for themselves.
+📩 Contact us at cloudvaathi@gmail.com to learn more!!
 
-## 🔐 Cloud Security
 
-## 🏛️ TOGAF & Enterprise Architecture
+### ☁️ Cloud
 
-## 🧭 CISM – Information Security Management
+### 🔐 Cloud Security
 
-## 🛡️ CCSP – Cloud Security Certification
+### 🏛️ TOGAF & Enterprise Architecture
 
-## 🧪 Selenium – Test Automation
+### 🧭 CISM – Information Security Management
 
-## 🤖 Artificial Intelligence
+### 🛡️ CCSP – Cloud Security Certification
 
-## ⚙️ DevOps & CI/CD
+### 🧪 Selenium – Test Automation
 
-Send us a mail to cloudvaathi@gmail.com for more details
+### 🤖 Artificial Intelligence
+
+### ⚙️ DevOps & CI/CD
+
+
 ---
 
 ## 📌 How to Use This Repo
